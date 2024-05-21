@@ -19,9 +19,10 @@ To contribute to the development of the Decentralized NFT Marketplace, follow th
 
 Clone the Repository: Begin by cloning the project repository to your local machine.
 
+```shell
 bash
 Copy code
-git clone https://github.com/yourusername/decentralized-nft-marketplace.git
+git clone [https://github.com/yourusername/decentralized-nft-marketplace.git](https://github.com/InteliSync/smartcontract-398.git)
 Install Dependencies: Navigate to the project directory and install the necessary dependencies.
 
 bash
@@ -41,6 +42,7 @@ We welcome contributions from the community to help improve and enhance the Dece
 Code Contributions: Help develop new features, fix bugs, or optimize performance.
 Documentation: Improve the project's documentation to make it more accessible and comprehensive.
 Testing: Participate in testing and quality assurance efforts to ensure the reliability of the marketplace.
+```
 
 Try running some of the following tasks:
 
